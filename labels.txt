@@ -1,0 +1,2 @@
+0 illegal
+1 legal
